@@ -14,7 +14,7 @@ class B1 extends A {
 	}
 
 	void message() {
-		System.out.println("welcome to covariant return type");
+		System.out.println("welcome to modified covariant return type");
 	}
 
 	public static void main(String args[]) {
