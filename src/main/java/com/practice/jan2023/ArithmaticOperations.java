@@ -1,5 +1,9 @@
 package com.practice.jan2023;
 
+/**
+ * @author KARAN CHAUDHARY
+ *
+ */
 public class ArithmaticOperations {
 	public int add(int a, int b) {
 		System.out.println("Adding 2 ints");
