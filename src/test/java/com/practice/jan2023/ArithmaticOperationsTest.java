@@ -21,6 +21,7 @@ public class ArithmaticOperationsTest {
 		System.out.println("before");
 	}
 
+	//test add
 	@Test
 	public void testAdd() {
 		int actualOutcome = a.add(2, 2);
