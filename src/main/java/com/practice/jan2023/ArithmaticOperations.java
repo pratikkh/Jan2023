@@ -1,7 +1,7 @@
 package com.practice.jan2023;
 
 /**
- * @author KARAN  CHAUDHARY
+ * @author KARAN  CHAUDHARY 
  *
  */
 public class ArithmaticOperations {
