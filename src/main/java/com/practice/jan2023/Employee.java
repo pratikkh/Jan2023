@@ -4,6 +4,7 @@ package com.practice.jan2023;
 class Address {
 	int zipcode;
 	String city;
+	String state;
 	
 }
 
