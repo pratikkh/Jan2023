@@ -10,6 +10,7 @@ class Student {
 	private String firstName;
 	private String lastName;
 	private int rollNumber;
+	public int age;
 	
 	public String getFirstName() {
 		return firstName;
@@ -30,6 +31,9 @@ class Student {
 	}
 	public void setRollNumber(int rollNumber) {
 		this.rollNumber = rollNumber;
+	}
+	public void getage(int age) {
+		this.age;
 	}
 	
 	
