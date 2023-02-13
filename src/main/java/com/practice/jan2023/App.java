@@ -27,7 +27,7 @@ class B1 extends A {
 		   System.out.println(s1.compareTo(s3));//1(because s1>s3)  
 		   System.out.println(s3.compareTo(s1));//-1(because s3 < s1 )  
 
-
+		   System.out.println(s3.compareTo(s1));//-1(because s3 < s1 )  
 		
 
 
