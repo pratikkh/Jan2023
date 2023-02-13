@@ -1,9 +1,9 @@
 package com.practice.jan2023;
 
 public class ArithmaticOperations {
-	public int add(int a, int b) {
+	public int add(int d, int b) {
 		System.out.println("Adding 2 ints");
-		return a+b;
+		return d+b;
 	}
 	
 	public float add(int a, int b, int c) {
